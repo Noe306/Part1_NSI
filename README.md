@@ -16,7 +16,7 @@ De plus je m'y connais forcement un peu donc je peux mettre mes connaissances a 
 afin que les fichiers soit organiser, j ai creer un dossier image, ou l'on retrouvera toute les images de chaque page du site WEB `image`
 j ai aussi creer un dossier `nav_bar` servant a repertorier tout les fichiers de navigation du site
 De plus, le dossier `source` sert au fichier dans lequel je parle de moi même et des sources m'ayant aidé a construire ce site
-Finalement le dossier `ligues` est la pour abritter le fichier d'html que l'on retrouve seulement dans la page avec des mots clicquable
+Finalement le dossier `ligues` est la pour abritter le fichier d'html que l'on retrouve seulement dans la page avec des mots clicquable.
 
 
 ## 3)Pourquoi ces parties?
