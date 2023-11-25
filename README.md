@@ -1,6 +1,6 @@
 # NSI-projet-site
 Lien du site:
-https://noe306.github.io/NSI-projet-site/  
+https://noe306.github.io/Part1_NSI/index.html
 Sujet et consigne:
 https://github.com/Noe306/NSI-projet-site/blob/main/sujet.md
 
