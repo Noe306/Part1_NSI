@@ -2,7 +2,7 @@
 Lien du site:
 https://noe306.github.io/Part1_NSI/index.html  
 Sujet et consigne:
-https://github.com/Noe306/NSI-projet-site/blob/main/sujet.md
+https://github.com/Noe306/Part1_NSI/blob/main/Sujet.md  
 
 
 # Document De rendu du projet de NSI , premiere partie!
